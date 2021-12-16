@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+    <string name="noInternetConnection">No internet connection</string>
+    <string name="new_york_times_mowies">
+        The\n <br/>
+        New York Times\n <br/>
+        movies
+    </string>
+    <string name="movie_icon">movie_icon</string>
+    <string name="results_could_not_be_loaded">Results could not be loaded</string>
+</resources>
